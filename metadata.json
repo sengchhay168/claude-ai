@@ -1,0 +1,6 @@
+{
+  "name": "Anime Chatbot",
+  "description": "A premium minimalist Claude-style conversational AI assistant web application powered by Gemini, featuring multi-domain knowledge, streaming word-by-word responses, and secure session management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
